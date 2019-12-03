@@ -1,5 +1,7 @@
 # cs7cs4-ml-notes
 
+open the `*.md` files with `Typora` or `vscode` with Markdown all in one plugin.
+
 ## From slides
 
 the note/summary from the lecture slides
