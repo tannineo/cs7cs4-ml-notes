@@ -6,7 +6,8 @@ open the `*.md` files with `Typora` or `vscode` with Markdown all in one plugin.
 
 the note/summary from the lecture slides
 
-[week-01](./from_slides/week-01.md)
+[week-01 - intro](./from_slides/week-01.md)
+[week-02 - linear regression](./from_slides/week-02.md)
 
 ## repl.it online programming assignments
 
