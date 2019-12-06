@@ -10,7 +10,7 @@ the note/summary from the lecture slides
 
 ## repl.it online programming assignments
 
-- [01 - linear regression](./repl_it/linear_regression/main.py)
-- [02 - logistic regression](./repl_it/logistic_regression/main.py)
-- [03 - support vector machine](./repl_it/support_vector_machine/main.py)
-- [04 - clustering](./repl_it/clustering/main.py)
+- [01 - linear regression](./repl_it/linear_regression/README.md)
+- [02 - logistic regression](./repl_it/logistic_regression/README.md)
+- [03 - support vector machine](./repl_it/support_vector_machine/README.md)
+- [04 - clustering](./repl_it/clustering/README.md)
